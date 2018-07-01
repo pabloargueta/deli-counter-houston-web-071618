@@ -14,5 +14,3 @@ def line(array)
   
 end
 
-def take a number
-end
