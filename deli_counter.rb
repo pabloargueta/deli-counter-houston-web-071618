@@ -26,3 +26,4 @@ def now_serving(array)
   end
   
   array.shift()
+end
