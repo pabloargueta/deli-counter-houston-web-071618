@@ -9,7 +9,6 @@ def line(array)
   end
   
   new_array = array.collect!.with_index{ |x, i| " #{i+1}. #{x}"}
-
   puts "The line is currently:#{new_array.join}"
   
 end
